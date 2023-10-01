@@ -14,7 +14,7 @@
         <mobile_title>Open</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_snc_loan_req1_loaner_req</name>
-        <order>3</order>
+        <order>400</order>
         <override_menu_roles>false</override_menu_roles>
         <query>active=true^EQ</query>
         <report/>
@@ -28,7 +28,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>eea000ad1b25b1107734db16cc4bcb0a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Open</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loan Req1" source="x_snc_loan_req1">b20f3fd91b25b1107734db16cc4bcb3e</sys_package>
@@ -37,7 +37,7 @@
         <sys_scope display_value="Loan Req1">b20f3fd91b25b1107734db16cc4bcb3e</sys_scope>
         <sys_update_name>sys_app_module_eea000ad1b25b1107734db16cc4bcb0a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-27 13:44:29</sys_updated_on>
+        <sys_updated_on>2023-10-01 11:26:41</sys_updated_on>
         <timeline_page/>
         <title>Open</title>
         <uncancelable>false</uncancelable>
